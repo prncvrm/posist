@@ -53,7 +53,7 @@ int main(){
         cout<<"3 for for creating child"<<endl;
         cout<<"4 for for encrypting the node"<<endl;
         cout<<"5 verify the owner of the node"<<endl;
-        cout<<"6 Transfer ownership of the node"<<endl;
+        cout<<"6 Edit the value of a node"<<endl;
         cout<<"7 Transfer ownership of the node"<<endl;
         cout<<"0 to exit"<<endl;
         int n;
@@ -138,7 +138,8 @@ int main(){
                 cout<<"New Key for Decryption is "<<encryptHashValue(node)<<endl;
                 break;
             case 7:
-                
+                //todo :: transfer the owner of the node
+
         }
     }
     while(n>0);
