@@ -4,4 +4,5 @@ The entire project here is in c++, focusing on the logic that can be used to imp
 
 View the code for a better brief of the idealogy that is being used.
 
+its more of a pesudo code in c++; 
 
